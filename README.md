@@ -38,9 +38,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 </div>
 
-</td><td valign="top" width="50%">
-
-
 
 </td></tr></table>  
 
