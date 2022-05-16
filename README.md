@@ -47,7 +47,7 @@
 <h3 align="center" color="white">House of Noodles</h2>
 <div align="center" >  
 <a href='https://houseofnoodles.netlify.app/'>
-<img src="https://github.com/paryswest/paryswest/blob/7e7901a09dc12846547306bced96c0429fdb3832/HouseOfNoodlesCropped.gif" alt="Naruto Game" height="800px" width="50%" />
+<img src="https://github.com/paryswest/paryswest/blob/7e7901a09dc12846547306bced96c0429fdb3832/HouseOfNoodlesCropped.gif" alt="Naruto Game" height="700px" width="80%" />
 </a>
 <br>
 <br>
@@ -66,7 +66,7 @@
 <h3 align="center" color="white">Mercy Neighbors</h2>
 <div align="center" >  
 <a href='https://mercyneighbors.org/'>
-<img src="https://github.com/paryswest/paryswest/blob/5ab4a03c7dd6314a658b82cbcf996817bd168357/MercyNeighborsCropped.gif" alt="" height="700px" width="50%" />
+<img src="https://github.com/paryswest/paryswest/blob/5ab4a03c7dd6314a658b82cbcf996817bd168357/MercyNeighborsCropped.gif" alt="" height="700px" width="80%" />
 </a>
 <br>
 <br>
