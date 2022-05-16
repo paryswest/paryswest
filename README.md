@@ -6,7 +6,8 @@
 <br/>  
 
 
-## My Skill Set  
+<h2 align="center">My Skill Set</h2>
+<div align="center">
 <table><tr><td valign="top" width="50%">
 
 
