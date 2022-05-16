@@ -47,7 +47,7 @@
 <h3 align="center" color="white">House of Noodles</h2>
 <div align="center" >  
 <a href='https://houseofnoodles.netlify.app/'>
-<img src="https://github.com/paryswest/paryswest/blob/cfd37198570e2ae2cdd020d9f7381e4d0017d206/HouseofNoodles.gif" alt="Naruto Game" height="500px" width="50%" />
+<img src="https://github.com/paryswest/paryswest/blob/cfd37198570e2ae2cdd020d9f7381e4d0017d206/HouseofNoodles.gif" alt="Naruto Game" height="800px" width="50%" />
 </a>
 <br>
 <br>
