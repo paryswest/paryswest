@@ -52,6 +52,35 @@
 <br>
 <br>
 <p>
+ <!-- <a href="https://github.com/ssaryonjr/Naruto-Character-Selector/tree/main/Naruto.JS" target="_blank">
+<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
+<a href="https://narutobattlescreen-js.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=D14836"/> -->
+</a>
+</p>
+<p><strong>HTML5, CSS3</strong> - Created a static website of a Japanese Noodle house who specializes in sushi making. Grab your chopsticks because by the time you finish with this website, you'll be hungry for sure!</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center" color="white">Mercy Neighbors</h2>
+<div align="center" >  
+<a href='https://mercyneighbors.org/'>
+<img src="https://github.com/paryswest/paryswest/blob/5ab4a03c7dd6314a658b82cbcf996817bd168357/MercyNeighborsCropped.gif" alt="" height="700px" width="50%" />
+</a>
+<br>
+<br>
+<p>
+<!-- <a href="https://github.com/ssaryonjr" target="_blank">
+<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
+<a href="https://ssjrmovieapi.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=D14836"/> -->
+</a>
+</p>
+<p><strong>HTML5, CSS3, Wordpress</strong> - Fully functional website created for a non-profit organization who provides children and adults from lower income communities with the best education and opportunities possible. </p>
+</div>
+</table>
 
 
 ## Connect with me  
