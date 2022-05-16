@@ -102,7 +102,7 @@
 
 
 ## Github Stats 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paryswest&theme=outrunshow_icons=true&locale=en&layout=compact" alt="paryswest" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paryswest&theme=outrunshow_icons=true&locale=en&layout=compact" alt="paryswest" /></p>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=paryswest&theme=outrun&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
