@@ -6,7 +6,7 @@
 <br/>  
 
 
-<h2 align="center">My Skill Set</h2>
+<h2 align="center" style='color: #F933FF';>My Skill Set</h2>
 <div align="center">
 <table><tr><td valign="top" width="50%">
 
