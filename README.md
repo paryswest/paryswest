@@ -39,7 +39,7 @@
 
 </td></tr></table>  
 
-<h2 align="center">Highlighted Projects </h2>
+<h2 align="center">My Projects </h2>
 <div align="center">
 <table>
 <tr>
@@ -47,7 +47,7 @@
 <h3 align="center" color="white">House of Noodles</h2>
 <div align="center" >  
 <a href='https://houseofnoodles.netlify.app/'>
-<img src="https://github.com/paryswest/paryswest/blob/3af1c8a2a0a92b72e8972716f521b4d016e978f6/MercyNeighbors.gif" alt="Naruto Game" height="500px" width="100%" />
+<img src="https://github.com/paryswest/paryswest/blob/cfd37198570e2ae2cdd020d9f7381e4d0017d206/HouseofNoodles.gif" alt="Naruto Game" height="500px" width="50%" />
 </a>
 <br>
 <br>
