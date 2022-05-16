@@ -39,6 +39,20 @@
 
 </td></tr></table>  
 
+<h2 align="center">Highlighted Projects </h2>
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3 align="center" color="white">House of Noodles</h2>
+<div align="center" >  
+<a href='https://houseofnoodles.netlify.app/'>
+<img src="https://github.com/paryswest/paryswest/blob/3af1c8a2a0a92b72e8972716f521b4d016e978f6/MercyNeighbors.gif" alt="Naruto Game" height="500px" width="100%" />
+</a>
+<br>
+<br>
+<p>
+
 
 ## Connect with me  
 <div align="center">
