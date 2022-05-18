@@ -63,6 +63,28 @@
 </a>
 </p>
 <p><strong>HTML5, CSS3</strong> - Created a static website of a Japanese Noodle house who specializes in sushi making. Grab your chopsticks because by the time you finish with this website, you'll be hungry for sure!</p>
+  
+</div>
+</td>
+<td width="50%">
+<h3 align="center" color="white">In Tha Cut</h2>
+<div align="center" >  
+<a href='inthacut.netlify.app'>
+<img src="https://github.com/paryswest/paryswest/blob/ae3532e723643a836b5a71dd6969831604d6d858/inthacut.gif" alt="" height="700px" width="80%" />
+</a>
+<br>
+<br>
+<p>
+<!-- <a href="https://github.com/ssaryonjr" target="_blank">
+<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
+<a href="https://ssjrmovieapi.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=D14836"/> -->
+</a>
+</p>
+<p><strong>HTML5, CSS3, Bootstrap, JS</strong> - Fully functional multipage website created for an up and coming hair salon specializing in hair types that belong to people of color. They offer great services that allow anyone to be welcomed, however.</p>
+</div>
+
 </div>
 </td>
 <td width="50%">
