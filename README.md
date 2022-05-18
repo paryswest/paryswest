@@ -84,7 +84,9 @@
 </p>
 <p><strong>HTML5, CSS3, Bootstrap, JS</strong> - Fully functional multipage website created for an up and coming hair salon specializing in hair types that belong to people of color. They offer great services that allow anyone to be welcomed, however.</p>
 </div>
-
+</div>
+</td>
+<tr>
 </div>
 </td>
 <td width="50%">
