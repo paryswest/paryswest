@@ -9,6 +9,8 @@
 <h2 align="center">Connect With Me</h2>
 <div align="center"> 
 <div align="center">
+<a href="https://paryswest.netlify.app/" target="_blank">
+<img src=https://img.shields.io/badge/Portfolio-FF69B4?.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
 <a href="https://github.com/paryswest" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
