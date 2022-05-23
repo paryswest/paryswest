@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/paryswest/image/blob/6689424f9856e040032d4dacd94e04e9f24ce748/banner.png" align="center" style="width: 100%" />
+<img src="https://github.com/paryswest/paryswest/blob/fde47a114ddadb73423a90a96c27e4bc14d2f629/banner.png" align="center" style="width: 100%" />
 </div>  
   
 
