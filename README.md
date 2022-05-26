@@ -75,7 +75,7 @@ Inquisitive and innovative software engineer with a passionate interest in AI. P
 <h3 align="center" color="white">House of Noodles</h2>
 <div align="center" >  
 <a href='https://houseofnoodles.netlify.app/'>
-<img src="https://github.com/paryswest/paryswest/blob/7e7901a09dc12846547306bced96c0429fdb3832/HouseOfNoodlesCropped.gif" alt="Naruto Game" height="700px" width="80%" />
+<img src="https://github.com/paryswest/paryswest/blob/7e7901a09dc12846547306bced96c0429fdb3832/HouseOfNoodlesCropped.gif" alt="" height="700px" width="80%" />
 </a>
 <br>
 <br>
