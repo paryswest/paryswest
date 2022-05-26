@@ -67,7 +67,7 @@ Inquisitive and innovative software engineer with a passionate interest in AI. P
 
 </td></tr></table>  
 
-<h2 align="center">My Projects </h2>
+<h2 align="center">My Projects</h2>
 <div align="center">
 <table>
 <tr>
