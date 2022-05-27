@@ -97,7 +97,7 @@ Inquisitive and innovative software engineer with a passionate interest in AI. P
 <h3 align="center" color="white">In Tha Cut</h2>
 <div align="center" >  
 <a href='inthacut.netlify.app'>
-<img src="https://github.com/paryswest/paryswest/blob/ae3532e723643a836b5a71dd6969831604d6d858/inthacut.gif" alt="" height="700px" width="90%" />
+<img src="https://github.com/paryswest/paryswest/blob/ae3532e723643a836b5a71dd6969831604d6d858/inthacut.gif" alt="" height="700px" width="100%" />
 </a>
 <br>
 <br>
@@ -120,7 +120,7 @@ Inquisitive and innovative software engineer with a passionate interest in AI. P
 <h3 align="center" color="white">Mercy Neighbors</h2>
 <div align="center" >  
 <a href='https://mercyneighbors.org/'>
-<img src="https://github.com/paryswest/paryswest/blob/5ab4a03c7dd6314a658b82cbcf996817bd168357/MercyNeighborsCropped.gif" alt="" height="700px" width="90%" />
+<img src="https://github.com/paryswest/paryswest/blob/5ab4a03c7dd6314a658b82cbcf996817bd168357/MercyNeighborsCropped.gif" alt="" height="700px" width="100%" />
 </a>
 <br>
 <br>
