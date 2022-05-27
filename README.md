@@ -77,7 +77,7 @@ Inquisitive and innovative software engineer with a passionate interest in AI. P
 <h3 align="center" color="white">House of Noodles</h2>
 <div align="center" >  
 <a href='https://houseofnoodles.netlify.app/'>
-<img src="https://github.com/paryswest/paryswest/blob/7e7901a09dc12846547306bced96c0429fdb3832/HouseOfNoodlesCropped.gif" alt="noodles" height="700px" width="90%" />
+<img style="display: block; margin: 0 auto;" src="https://github.com/paryswest/paryswest/blob/7e7901a09dc12846547306bced96c0429fdb3832/HouseOfNoodlesCropped.gif" alt="noodles" height="700px" width="90%" />
 </a>
 <br>
 <br>
