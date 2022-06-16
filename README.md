@@ -133,10 +133,10 @@ Inquisitive and innovative software engineer with a passionate interest in AI. P
 </p>
 <p><strong>HTML5, CSS3, Wordpress</strong> - Fully functional website created for a non-profit organization who provides children and adults from lower income communities with the best education and opportunities possible. </p>
 <td width="50%">
-<h3 align="center" color="white">Never Too Hungry for Pizza🍕</h2>
+<h3 align="center" color="white">🍕Too Hungry To Decide!🍕</h2>
 <div align="center" >  
 <a href='#'>
-<img src="https://github.com/paryswest/_pizza-generator/blob/65db051c330c93b4fc81c9777212e189c870ab07/Pizzarandomizer.gif" alt="" height="auto" width="100%" />
+<img src="https://github.com/paryswest/_pizza-generator/blob/e36e853cd3a0f587332faf84a4c5062acc067955/Pizzarandomizer.gif" alt="" height="auto" width="100%" />
 </a>
 <br>
 <br>
