@@ -132,6 +132,23 @@ Inquisitive and innovative software engineer with a passionate interest in AI. P
 </a>
 </p>
 <p><strong>HTML5, CSS3, Wordpress</strong> - Fully functional website created for a non-profit organization who provides children and adults from lower income communities with the best education and opportunities possible. </p>
+<td width="50%">
+<h3 align="center" color="white">Never Too Hungry for Pizza🍕</h2>
+<div align="center" >  
+<a href='#'>
+<img src="https://github.com/paryswest/_pizza-generator/blob/65db051c330c93b4fc81c9777212e189c870ab07/Pizzarandomizer.gif" alt="" height="auto" width="100%" />
+</a>
+<br>
+<br>
+<p>
+<!-- <a href="https://github.com/ssaryonjr" target="_blank">
+<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
+<a href="https://ssjrmovieapi.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=D14836"/> -->
+</a>
+</p>
+<p><strong>HTML5, CSS3, Figma, JavaScript, Node.js, Express.js(coming soon!)</strong> - Full stack application helping our hungry pizza lovers pick out toppings on their pizza, because they are....too Hungry, to decide. </p>
 </div>
 </table>
 
