@@ -148,7 +148,7 @@ Inquisitive and innovative software engineer with a passionate interest in AI. P
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=D14836"/> -->
 </a>
 </p>
-<p><strong>HTML5, CSS3, Figma, JavaScript, Node.js, Express.js(coming soon!)</strong> - Full stack application helping our hungry pizza lovers pick out toppings on their pizza, because they are....too Hungry, to decide. </p>
+<p><strong>HTML5, CSS3, Figma, JavaScript, Node.js, (Implementation including Express.js coming soon!)</strong> - Full stack application helping our hungry pizza lovers pick out toppings on their pizza, because they are....too Hungry, to decide. </p>
 </div>
 </table>
 
