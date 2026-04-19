@@ -95,7 +95,7 @@ Full-stack developer (MERN · REST APIs) | ServiceNow developer in training | Bu
 <td width="50%">
 <h3 align="center" color="white">In Tha Cut</h2>
 <div align="center" >  
-<a href='inthacut.netlify.app'>
+<a href='[inthacut.netlify.app](https://inthacut.netlify.app/)'>
 <img src="https://github.com/paryswest/paryswest/blob/ae3532e723643a836b5a71dd6969831604d6d858/inthacut.gif" alt="" height="700px" width="100%" />
 </a>
 <br>
