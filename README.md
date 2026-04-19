@@ -7,7 +7,7 @@
 
 <h2 align="center">About Me</h2>
 <div align="center"> 
-Inquisitive and innovative software engineer with a passionate interest in AI. Proven track record of creating and implementing successful front and back-end web applications using JavaScript, React, MongoDB and many more. Looking to bring my innovative ideas to a company using my skills and expertise.
+Full-stack developer (MERN · REST APIs) | ServiceNow developer in training | Building at the intersection of tech and people-centered design.
 
 <br/>  
 
